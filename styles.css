@@ -53,6 +53,17 @@ td{
 
 }
 
+#t-image{
+	border:5px solid black;
+}
+
+.green{
+	background-color:green;
+	
+}
+.blue{
+	background-color:blue;
+}
 
 
 
