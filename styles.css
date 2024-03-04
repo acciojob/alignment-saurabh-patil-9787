@@ -1,1 +1,61 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;}
+
+.middle{
+	text-align:center;
+	border-collapse:collapse;
+	margin:5px 0px;
+	width:100vw;
+	border-spacing:1px;
+}
+
+#table-1{
+	border:1px solid black;
+	
+
+}
+.t11{
+	padding:1px;
+	text-align:left;
+	border:1px solid black;
+	
+	
+}
+
+
+.t12{
+	padding:1px;
+	text-align:center;
+	border:1px solid black;
+	
+}
+
+.t13{
+	padding:1px;
+	text-align:right;
+	border:1px solid black;
+	
+}
+
+
+
+
+
+#table-2{
+	width:100vw;
+}	
+	
+
+td{
+	border:1px solid black;
+	padding:10px;
+
+}
+
+
+
+
+
+
+
